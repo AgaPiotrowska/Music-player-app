@@ -1,0 +1,33 @@
+@import "Song";
+@import "Player";
+@import "Library";
+@import "Nav";
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Lato', sans-serif;
+  background: linear-gradient(to top, #669999 0%, #ffffff 100%);
+  height: 100vh;
+}
+
+h1, h2, h3 {
+  color: rgb(54, 54, 54);
+}
+
+h2, h4 {
+   font-weight: 400;
+   color: rgb(100,100,100);
+ }
+
+.App {
+  transition: all 0.5s ease;
+}
+
+.library-active {
+  margin-left: 30%;
+}
