@@ -1,31 +1,31 @@
-# PortfolioApp 
+# MusicApp
 
-This is a dynamic website powered by [Create React App](https://github.com/facebook/create-react-app) that was created to present in an easy and friendly way my tech portfolio. 
+This app powered by [Create React App](https://github.com/facebook/create-react-app) and was created to play your favorite music. 
 
-![portfolio_app_screen](./src/img/readmephoto.png)
+![music_app_screen](./musicplayer1.png)
 
 ## Motivation
 
-I started this project to wrap all my previously written projects in one and at the same time to practise the use of React, styled-components and web animations.
+I started this project to get some more practice in creating and managing state in React. 
 
-## Content
+## How to Use
 
-Website consists of 3 sections. 
+Application opens at the first song from the list. Click **Library** button to open a list of available songs on the left side of the screen.
 
-**About Me** section works as a simple and consistent CV page where you can find the list of my valuable skills as well as get to know in details my tech profile, work experience and educational background (section FAQ). 
- 
-**My Projects** section contains the list of my tech projects - including commercial projects (Forest Spa and MP Action Photo) as well as non-commercial projects (Day Planner, Music Player) - where I implemented the below technologies and frameworks. Each project has it's own description and link to see live. 
- 
-In **Contact Me** section you will find my contact details as well as the link to my GitHub profile. 
+You can choose any song you like from the list - once chosen it will be highlighted with green color. The song's album will appear on the main screen together with it's title and band's name. The song's length will appear on the right side of the bar.
+
+Once clicked **Play** button the song will start playing. The remaining time will decrease as the song progresses. You can scroll on the bar to back and forward in the song. The bar will also imitate the color of the album's main color.
+
+You also have an option to go the teh previous or next song by clicking on the certain **icons**. 
 
 See live at: 
 
 ## Built with
 
 - [Create React App](https://github.com/facebook/create-react-app) - JavaScript Framework
-- [React-Router](https://github.com/ReactTraining/react-router) - Declarative routing for React.
-- [styled components](https://github.com/styled-components/styled-components) - Lets you write actual CSS in your JavaScript
-- [Framer Motion](https://www.framer.com/motion/) - Production-Ready Animation Library for React
+- [Sass](https://github.com/sass/sass) - An extension of CSS
+- [Fort Awesome](https://fortawesome.com/) - The iconic SVG, font, and CSS toolkit
+- [UUID](https://www.npmjs.com/package/uuid) - Library for generating universally unique identifiers
 
 ## License
 
