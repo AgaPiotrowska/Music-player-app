@@ -2,7 +2,7 @@
 
 This app powered by [Create React App](https://github.com/facebook/create-react-app) and was created to play your favorite music. 
 
-![music_app_screen](src/img/musicplayer1.png)
+![music_app_screen](src/img/musicplayer1.png) 
 
 ## Motivation
 
