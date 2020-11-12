@@ -16,7 +16,7 @@ You can choose any song you like from the list - once chosen it will be highligh
 
 Once clicked **Play** button the song will start playing. The remaining time will decrease as the song progresses. You can scroll on the bar to back and forward in the song. The bar will also imitate the color of the album's main color.
 
-You also have an option to go the teh previous or next song by clicking on the certain **icons**. 
+You also have an option to go the the previous or next song by clicking on the certain **icons**. 
 
 See live at: 
 
