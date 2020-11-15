@@ -18,7 +18,7 @@ Once clicked **Play** button the song will start playing. The remaining time wil
 
 You also have an option to go the the previous or next song by clicking on the certain **icons**. 
 
-See live at: 
+See live at: https://music-playerapp.netlify.app/ 
 
 ## Built with
 
